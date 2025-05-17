@@ -67,3 +67,9 @@ Uses Random Forest Regressor
 Evaluates on test set using Mean Absolute Error (MAE)
 
 Example: MAE ≈ 0.07 days (very accurate for average predictions)
+
+🧑‍💻 Author
+
+Developed by: Deepanshi Patil
+
+Feel free to contribute or raise issues!
